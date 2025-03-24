@@ -1,3 +1,5 @@
+This project was originally created in 2023, but I uploaded it to GitHub in 2025.
+
 # Collection Style Game Starter Code
 This is a place for you to start building your Collection Style Game Project!
 
